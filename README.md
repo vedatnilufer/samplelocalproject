@@ -1,4 +1,4 @@
-# samplelocalproject
+# Mobx + Hive - MVVM
 
 A new Flutter project.
 
