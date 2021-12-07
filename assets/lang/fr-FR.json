@@ -1,0 +1,54 @@
+[
+    {
+        "key":"post",
+        "value":"Messages"
+    },
+    {
+        "key":"profil",
+        "value":"Profil"
+    },
+    {
+        "clé": "photos",
+        "valeur": "Photos"
+    },
+    {
+        "key":"login",
+        "value":"Connexion"
+    },
+    {
+        "key":"deletePost",
+        "value": "Supprimer la publication"
+    },
+    {
+        "key":"deleteComment",
+        "value":"Supprimer le commentaire"
+    },
+    {
+        "key":"share",
+        "value":"Partager"
+    },
+    {
+        "key":"comment",
+        "value":"Commentaire"
+    },
+    {
+        "key":"comments",
+        "value":"Commentaires"
+    },
+    {
+        "key":"photoAlbum",
+        "value":"Album photo"
+    },
+    {
+        "key":"following",
+        "value": "Suivant"
+    },
+    {
+        "key":"unfollow",
+        "value":"Ne plus suivre"
+    },
+    {
+        "clé":"reset",
+        "value":"Réinitialiser"
+    }
+ ]

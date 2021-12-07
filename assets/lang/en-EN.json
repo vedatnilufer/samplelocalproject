@@ -1,0 +1,54 @@
+[
+    {
+        "key":"post",
+        "value":"Posts"
+    },
+    {
+        "key":"profile",
+        "value":"Profile"
+    },
+    {
+        "key":"photos",
+        "value":"Photos"
+    },
+    {
+        "key":"login",
+        "value":"Login"
+    },
+    {
+        "key":"deletePost",
+        "value":"Delete Post"
+    },
+    {
+        "key":"deleteComment",
+        "value":"Delete Comment"
+    },
+    {
+        "key":"share",
+        "value":"Share"
+    },
+    {
+        "key":"comment",
+        "value":"Comment"
+    },
+    {
+        "key":"comments",
+        "value":"Comments"
+    },
+    {
+        "key":"photoAlbum",
+        "value":"Photo Album"
+    },
+    {
+        "key":"following",
+        "value":"Following"
+    },
+    {
+        "key":"unfollow",
+        "value":"Unfollow"
+    },
+    {
+        "key":"reset",
+        "value":"Reset"
+    }
+ ]

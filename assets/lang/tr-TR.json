@@ -1,0 +1,54 @@
+[
+    {
+        "key":"post",
+        "value":"Gönderiler"
+    },
+    {
+        "key":"profile",
+        "value":"Profil"
+    },
+    {
+        "key":"photos",
+        "value":"Fotoğraflar"
+    },
+    {
+        "key":"login",
+        "value":"Giriş"
+    },
+    {
+        "key":"deletePost",
+        "value":"Postu Sil"
+    },
+    {
+        "key":"deleteComment",
+        "value":"Yorumu Sil"
+    },
+    {
+        "key":"share",
+        "value":"Paylaş"
+    },
+    {
+        "key":"comment",
+        "value":"Yorum"
+    },
+    {
+        "key":"comments",
+        "value":"Yorumlar"
+    },
+    {
+        "key":"photoAlbum",
+        "value":"Fotoğraf Albümü"
+    },
+    {
+        "key":"following",
+        "value":"Takip Ettiklerin"
+    },
+    {
+        "key":"unfollow",
+        "value":"Takibi bırak"
+    },
+    {
+        "key":"reset",
+        "value":"Sıfırla"
+    }
+ ]
