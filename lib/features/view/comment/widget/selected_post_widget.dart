@@ -37,7 +37,8 @@ class SelectedPostWidget extends StatelessWidget {
 
   CircleAvatar _listTileLeading() => CircleAvatar(backgroundImage: randomImage(_postModel.id!));
   Row _listTileTitle(BuildContext context) {
-    return Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [Text(_postModel.title ?? ''), _commentCountBody(context)]);
+    return Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [Expanded(child: Text(_postModel.title ?? '')), _commentCountBody(context)]);
   }
 
   Text _listTileSubttile() => Text(_postModel.body ?? '');
